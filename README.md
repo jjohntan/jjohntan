@@ -15,3 +15,6 @@
 jjohntan/jjohntan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center">
+  <img src="!/claude-jumping.svg" alt="Claude Code mascot jumping" width="120" height="100"><br>
+</p>
